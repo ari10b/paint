@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item
+       android:id="@+id/action_DelBig"
+       android:title="Leave the largest shape"
+       android:orderInCategory="100"
+       />
+   <item
+       android:id="@+id/action_Save"
+       android:title="Save"
+       android:orderInCategory="200"
+       />
+
+</menu>
